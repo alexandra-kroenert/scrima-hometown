@@ -1,1 +1,1 @@
-# scrima-hometown
+# scrimba-hometown
